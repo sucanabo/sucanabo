@@ -3,7 +3,7 @@
 
 - 👋 Hi, I’m Felix
 - 👀 I’m interested in Mobile Application
-- 🌱 I’m currently Junior 1.5 in Flutter
+- 🌱 I’m currently Junior 3 in Flutter
 
 
 ### Connect with me:
@@ -29,7 +29,6 @@
 
 </br>
 
-<b>👉 This account for work, you also check my personal <a href = [github]>account</a>.</b>
 
 
 
